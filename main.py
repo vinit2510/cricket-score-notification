@@ -49,6 +49,6 @@ def score():
 try:
     while True:
         notification()
-        time.sleep(30)
+        time.sleep(60)
 except:
     print("\n--Some Error Might Be There!\n")
